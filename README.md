@@ -14,7 +14,7 @@ Cloud Offloading: Supabase (PostgreSQL-based BaaS)
 
 AI Framework: YOLOv5
 
-Target Devices: NVIDIA Jetson Nano, Raspberry Pi 4/5
+Target Devices: NVIDIA Jetson Nano
 
 3. Performance Analysis
 각 DB 방식에 따른 자원 점유율(CPU, GPU, RAM) 및 성능(Latency, FPS)을 비교 분석하였습니다.
